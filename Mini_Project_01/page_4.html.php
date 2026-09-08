@@ -1,0 +1,70 @@
+<!-- This is a single-line comment -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title> Fourth Home Page of  </title>
+</head>
+
+<body>
+
+
+<h1> The fourth page of the TF Wiki </h1>
+
+<!-- This is only single use and used specify a unique id for an HTML element. You cannot have more than one element with the same id in an HTML document -->
+<p id="index"> This is Paragraph 1 in my webpage </p>
+
+<hr>
+
+<!-- Just a unique name and any other could've gone in and have lots of paragraphs of notdex. The HTML class attribute specifies one or more class names for an element -->
+<p class="notdex"> This is Paragraph 2 in my webpage </p>
+
+<br>
+
+
+<strong> This is Strong </strong>
+<br> <!-- Stands for brake -->
+<b> This is bold </b> <!-- Used to make lines bold or strong -->
+<br>
+<em> This is em </em> <!-- Stands for emphasis, go for em (emphases) over i (italics) -->
+<br>
+<i> This is i </i> <!-- Just does italics -->
+
+<br>
+<a href="Index.html"> Link to Index.html </a>
+<br>
+<a href="Page_1.html"> Link to Page 1 </a>
+<br>
+<a href="Page_2.html"> Link to Page 2 </a>
+<br>
+<a href="Page_3.html"> Link to Page 3 </a>
+
+    <form>
+        <label for="usrname">Username
+            <input type="text" id="usrname"></label>
+        <br>
+        <label for="usrpassword">Email
+            <input type="email" id="usrpassword"></label>
+        <br>
+        <input type="password"> Password
+        <input type=password id="usrpassword"></label>
+        <br>
+        <select id="usrselect" name="figurechoice">
+            <option value="Optimus Prime"> Optimus Prime </option>
+            <option value="Megatron"> Megatron </option>
+            <option value="Grimlock"> Grimlock </option>
+        </select>
+
+        <br>
+        <button type="button" id="Submit"> Submit </button>
+
+    </form>
+
+
+
+
+</body>
+
+</html>
