@@ -24,14 +24,6 @@
 <br>
 
 
-<strong> This is Strong </strong>
-<br> <!-- Stands for brake -->
-<b> This is bold </b> <!-- Used to make lines bold or strong -->
-<br>
-<em> This is em </em> <!-- Stands for emphasis, go for em (emphases) over i (italics) -->
-<br>
-<i> This is i </i> <!-- Just does italics -->
-
 <br>
 <a href="Index.html"> Link to Index.html </a>
 <br>

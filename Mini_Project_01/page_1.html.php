@@ -14,23 +14,15 @@
 <h1> This is the first page of the TF Wiki </h1>
 
 <!-- This is only single use and used specify a unique id for an HTML element. You cannot have more than one element with the same id in an HTML document -->
-<p id="index"> This is Paragraph 1 in my webpage </p>
+<p id="index"> The Transformers, Robots in Disguise, as you all know which started with the classic "Autobots wage their battle to destroy the evil Decepticons" which eventually became so much more through more shows after Generation One. Such as Beast Wars, comics, more animated reboots, games, Aligned Continuity, and all the movies. </p>
 
 <hr>
 
 <!-- Just a unique name and any other could've gone in and have lots of paragraphs of notdex. The HTML class attribute specifies one or more class names for an element -->
-<p class="notdex"> This is Paragraph 2 in my webpage </p>
-
-<br>
+<p class="notdex"> As such, one would expect many, many continuities across </p>
 
 
-<strong> This is Strong </strong>
-<br> <!-- Stands for brake -->
-<b> This is bold </b> <!-- Used to make lines bold or strong -->
-<br>
-<em> This is em </em> <!-- Stands for emphasis, go for em (emphases) over i (italics) -->
-<br>
-<i> This is i </i> <!-- Just does italics -->
+
 
 <br>
 <a href="Index.html"> Link to Index.html </a>
