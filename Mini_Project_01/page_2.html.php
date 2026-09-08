@@ -44,7 +44,7 @@
 <hr>
 
 <br>
-<img src="Better-Call-Saul-Emblem-500x281.png">
+<img src="">
 
 
 </body>

@@ -5,7 +5,7 @@
 <html>
 
 <head>
-    <title> My Home Page of  </title>
+    <title> My Home Page of Prashan's Personal Unofficial Transformers Site </title>
 </head>
 
 <body>
@@ -44,7 +44,7 @@
 <hr>
 
 <br>
-<img src="Better-Call-Saul-Emblem-500x281.png">
+<img src="">
 
 
 </body>
