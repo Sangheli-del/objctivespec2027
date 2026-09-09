@@ -11,15 +11,15 @@
 <body>
 
 
-<h1> This is the first page </h1>
+<h1> This is the first page of the unoficial TF Wiki. As of now, this only serves as a short introduction to this wiki and how the franchise works. </h1>
 
 <!-- This is only single use and used specify a unique id for an HTML element. You cannot have more than one element with the same id in an HTML document -->
-<p id="index"> This is Paragraph 1 in my webpage </p>
+<p id="index"> While there already is an official Wikipedia for The Transformers. This is just my own practice for a series that I also like for its many games, comics, cartoons, and of course the movies most lucratively of all </p>
 
 <hr>
 
 <!-- Just a unique name and any other could've gone in and have lots of paragraphs of notdex. The HTML class attribute specifies one or more class names for an element -->
-<p class="notdex"> This is Paragraph 2 in my webpage </p>
+<p class="notdex"> This is also where you'll find a small guide of all the many universes of The Transformers  </p>
 
 <br>
 
@@ -32,19 +32,21 @@
 <br>
 <i> This is i </i> <!-- Just does italics -->
 
+<!-- This to link to the other html webpages -->
 <br>
-<a href="Index.html"> Link to Index.html </a>
+<a href="Page_1.html.php"> Link to Index.html </a>
 <br>
-<a href="Page_2.html"> Link to Page 2 </a>
+<a href="Page_2.html.php"> Link to Page 2 </a>
 <br>
-<a href="Page_3.html"> Link to Page 3 </a>
+<a href="Page_3.html.php"> Link to Page 3 </a>
 <br>
-<a href="Page_4.html"> Link to Page 4 </a>
+<a href="Page_4.html.php"> Link to Page 4 </a>
 
 <hr>
 
+<!-- This gives the source of the image after it has been pasted into the site -->
 <br>
-<img src="">
+<img src="Transformers_background.jpg">
 
 
 </body>

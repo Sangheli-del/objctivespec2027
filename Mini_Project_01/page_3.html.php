@@ -5,38 +5,94 @@
 <html>
 
 <head>
-    <title> Second Home Page of  </title>
+    <title> Third Home Page of Prashan's unofficial wiki </title>
 </head>
 
 <body>
 
 
-<h1> The TF Wiki third page </h1>
+<h1> The TF Wiki third page: Continuities and the Continuity Families throughout The Transformers. </h1>
 
 <!-- This is only single use and used specify a unique id for an HTML element. You cannot have more than one element with the same id in an HTML document -->
-<p id="index"> This is Paragraph 1 in my webpage </p>
+<p id="index"> As such, one would expect many, many continuities across the many mediums out of the franchise which is so they could introduce kids and other fans new versions of the series to tell their own stories. </p>
 
 <hr>
 
 <!-- Just a unique name and any other could've gone in and have lots of paragraphs of notdex. The HTML class attribute specifies one or more class names for an element -->
-<p class="notdex"> This is Paragraph 2 in my webpage </p>
+<p class="notdex"> There have been many continuities of The Transformers but there have always been 9 dominant universes. Which are below: </p>
 
 
 
 
 <br>
-<a href="Index.html"> Link to Index.html </a>
+<a href="Index_1.html.php"> Link to Index.html </a>
 <br>
-<a href="Page_1.html"> Link to Page 1 </a>
+<a href="Page_1.html.php"> Link to Page 1 </a>
 <br>
-<a href="Page_2.html"> Link to Page 2 </a>
+<a href="Page_2.html.php"> Link to Page 2 </a>
 <br>
-<a href="Page_4.html"> Link to Page 4 </a>
+<a href="Page_4.html.php"> Link to Page 4 </a>
+
+<!-- Ordered list of items from 1 to 3 -->
+<ol>
+    <li> Generation 1
+        <ul>
+            <li> This is where it all started and is biggest, oldest, and longest-running continuity family in the Transformers canon </li>
+            <li> Sunbow Generation 1 cartoon and the 1986 movie </li>
+            <li> Marvel G1 continuity of the US and UK comics </li>
+            <li> Generation 2 </li>
+            <li> Transformers Beast Wars and Beast Machines </li>
+            <li> The entire Japanese G1 continuity which is a whole other franchise which expands off into its own universe </li>
+            <li> IDW Comics continuity </li>
+            <li> As of right now there is also the ongoing Skybound comics of the Transformers from 2023 and onward </li>
+        </ul>
+
+    <li> Robots in Disguise (2001) </li>
+
+    <li> Unicron Trilogy
+        <ul>
+            <li> Transformers: Armada, Transformers: Energon, Transformers: Cybertron as many more comic, manga, and game expansions </li>
+        </ul>
+
+    <li> Transformers movies through the Bayverse and other related branches
+        <ul>
+            <li> The Bayverse: Transformers (2007), Transformers 2: Revenge of the Fallen, Transformers 3: Dark of the Moon, Transformers 4: Age of Extinction, and Transformers 5: The Last Knight. There is also the expanded Bayverse timeline through the many comics, games, and novel tie-ins </li>
+            <li> We also had the Knightverse which originally might have started as a prequel to the Bayverse but was changed to be its own movie continuity: Bumblebee (2018) and Transformers: Rise of the Beasts (2023). There has also been a tease of a Gi Joe crossover at the end of the movie but as of now that is yet to have been fully greenlit to happen </li>
+        </ul>
+
+    <li> Animated
+        <ul>
+            <li> Another reimagined animated reboot and although it was cancelled after the end of season 3 IDW Publishing did release the Allspark Almanacs which was to expand more on the characters and the universe </li>
+        </ul>
+
+    <li> Aligned Continuity
+        <ul>
+            <li> War For and Fall of Cybertron games </li> <!-- This a sub bullet point there by putting it inside the item tag list -->
+            <li> Exodus, Exiles, and Retribution novels </li>
+            <li> Then of course, we have the cartoons for Transformers: Prime, Rescue Bots, and Rescue Bots Academy </li>
+            <li> As well as the overall conclusion that continuity with The Covenant of Primus </li>
+        </ul>
+
+    <li> Cyberverse </li>
+
+    <li> Earthspark </li>
+
+    <li> Transformers One
+        <ul>
+            <li> Our most recent continuity as of new which is a separate movie universe from the Bayverse and Knightverse movies all about the origins of Optimus and Megatron's relationship and how they became enemies and how the Great War came to be </li>
+        </ul>
+
+    </li>
+
+</ol>
 
 <hr>
 
 <br>
-<img src="">
+<img src="transformers_continuities.jpg">
+
+<hr>
+
 
 
 </body>
