@@ -34,3 +34,40 @@ td {
     margin:20px;
 }
 
+#titlebar {
+    border: 1px solid red;
+
+}
+
+#nav {
+    border: 1px deeppink;
+    background-color: darkslategray;
+}
+
+#navi {
+    border: 1px solid forestgreen;
+
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+    background-color: #333;
+}
+
+#nav li {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#nav li:hover {
+    background-color: aliceblue;
+}
+
+#content {
+    border: 1px aliceblue;
+}
+

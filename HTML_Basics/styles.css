@@ -33,3 +33,17 @@ td {
     padding:10px;
     margin:20px;
 }
+
+#titlebar {
+    border: 1px solid red;
+
+}
+
+#nav {
+    border: 1px deeppink;
+    background-color: darkslategray;
+}
+
+#content {
+
+}
