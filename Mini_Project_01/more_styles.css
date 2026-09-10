@@ -1,10 +1,10 @@
 body{
-    background: coral;
-    color: lightgoldenrodyellow;
+    background: #2d5a8e;
+    color: #00d4aa;
 }
 
 p {
-    color: deeppink;
+    color: #f59e0b;
 }
 
 table {
@@ -20,7 +20,7 @@ table {
 }
 
 #p2 {
-    color:blueviolet;
+    color:lightgoldenrodyellow;
 }
 
 
@@ -59,8 +59,8 @@ td {
 }
 
 #nav li {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #nav li:hover {
